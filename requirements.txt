@@ -1,0 +1,20 @@
+This system must enable us to gather people to play soccer games together
+
+- It is very probable, that we will want to gather people for other types of games (basketball, chess).
+- Game can be played by given amount of players.
+- There is a minimal required number of players for game to take place.
+- There is a maximal number of players for a game.
+- Game have to have a date when it will be held.
+- Game have some description data such as address, required gear and so on. Anything a game creator will type is ok for now.
+- Game have a date on which no one will be able to join (or leave - we need to rethink leaving).
+- Player can join game if game allows for joining.
+- Player can leave game if game allows for joining (?? we need to think about it further, what if someone really can't come?).
+- If after end of joining date there is not enough players (less than minimal required), the game is cancelled.
+- Game is played by two teams (for now we do not want to handle with other types of sports like athletics, where you can have more teams).
+- Each team have to consist of at least one player.
+- If there is uneven number of Players, one team will have an extra Player.
+- Teams are drawn from all registered players (there might be a need for allowing players to create a pre-made teams and then put them in the same team, but it's for the future)
+- Player can join only one game at given time
+- 
+
+
