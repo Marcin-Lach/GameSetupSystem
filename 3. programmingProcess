@@ -1,0 +1,12 @@
+Programming new feature process:
+1. Understand business requirements and business goal
+1.1 If there is anything confusing or breaking current state, talk about it before going further
+2. If you failed at step 1, go back to step 1
+3. Understand how this new feature impacts the system
+4. Think and plan implementation
+5. Start writing code
+5.1 Remember about tests ;)
+6. Perform tests
+7. Create pull-request
+7.1 Keep correcting code and talking about this PR untill every comment is resolved and PR is approved by other team member(s)
+8. Close PR and let CI/CD pipeline do it's job

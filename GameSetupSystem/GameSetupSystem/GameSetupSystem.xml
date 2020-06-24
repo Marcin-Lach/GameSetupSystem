@@ -4,6 +4,18 @@
         <name>GameSetupSystem</name>
     </assembly>
     <members>
+        <member name="M:GameSetupSystem.Controllers.FirstApproachController.Get">
+            <summary>
+            Gets weather forecast
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GameSetupSystem.Controllers.SecondApproachController.Get">
+            <summary>
+            Gets weather forecast
+            </summary>
+            <returns></returns>
+        </member>
         <member name="M:GameSetupSystem.Controllers.WeatherForecastController.Get">
             <summary>
             Gets weather forecast

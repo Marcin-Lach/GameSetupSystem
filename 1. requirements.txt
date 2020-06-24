@@ -12,10 +12,30 @@ This system must enable us to gather people to play soccer games together
 
 
 
-- Player can join only one game at given time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 // Out of scope of this presentation (possibly we would create totaly new type representing game, that is sure to be held - with created teams and so on)
+- Player can join only one game at given time
+
 - If after end of joining date there is not enough players (less than minimal required), the game is cancelled.
 - Game is played by two teams (for now we do not want to handle with other types of sports like athletics, where you can have more teams).
 - Each team have to consist of at least one player.
