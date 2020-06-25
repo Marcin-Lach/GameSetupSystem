@@ -2,7 +2,8 @@
 
 namespace SecondApproachDomain
 {
-    public class Class1
+    public class Player
     {
+        public Guid Guid { get; set; }
     }
 }

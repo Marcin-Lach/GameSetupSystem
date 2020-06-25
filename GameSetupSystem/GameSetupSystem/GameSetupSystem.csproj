@@ -21,6 +21,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\FirstApproachApplicationLayer\FirstApproachApplicationLayer.csproj" />
+    <ProjectReference Include="..\SecondApproachApplication\SecondApproachApplication.csproj" />
     <ProjectReference Include="..\ThirdApproachApplication\ThirdApproachApplication.csproj" />
   </ItemGroup>
 
