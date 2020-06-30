@@ -1,6 +1,0 @@
-Good code: 
-- Reflect business requirements
-- Readable
-- Testable
-- Easy to code review
-- Following best practices (SOLID, DRY etc)
